@@ -1,0 +1,8 @@
+package sisanhoyu;
+
+public class sample_renshu_13_3_B  extends sample_renshu_13_3_Y{
+
+	public void a(){System.out.print("Ba");}
+	public void b(){System.out.print("Bb");}
+	public void c(){System.out.print("Bc");}
+}
